@@ -1,1 +1,2 @@
-# 24th-Project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
